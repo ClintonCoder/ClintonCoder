@@ -20,11 +20,11 @@
 
 <h2>📺 Certificates</h2>
 
-- [Google Cloud..](https://cloud.google.com/certification#why-get-google-cloud-certified)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Google Cloud Certificication..change this](https://cloud.google.com/certification#why-get-google-cloud-certified)
+- [A Day in the Life of a Cybersecurity Anayst]
+- [How to Create a KeyLogger (C#)]
+- [Ransomware Demonstration (C#)]
+- [Is WGU Legit?]
 
 
 
