@@ -1,41 +1,39 @@
-<h1>Hi, I'm Clinton! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# My Portfolio
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Welcome to my Github portfolio! This repository contains a collection of my projects and contributions to open source.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Cisco Packet Tracer]
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Webtools, the API documentation and the site with relevant screenshots)](https://github.com/ClintonCoder/WebTools/blob/main/README.md)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## Projects
 
-<h2>📺 Certificates</h2>
+### Project 1
 
-- [Google Cloud Certificication..change this](https://cloud.google.com/certification#why-get-google-cloud-certified)
-- [find out for cisco packet tracer completion certificiate]
-- [How to Create a KeyLogger (C#)]
-- [Ransomware Demonstration (C#)]
-- [Is WGU Legit?]
+Description: This project is a web application that allows users to search for restaurants based on their location.
 
+Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express
 
+Link: [Project 1](https://github.com/your-username/project-1)
 
-Here are some ideas to get you started:
+### Project 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Description: This project is a mobile application that allows users to track their workouts and progress.
+
+Tech Stack: React Native, Firebase, Firestore
+
+Link: [Project 2](https://github.com/your-username/project-2)
+
+## Contributions
+
+### Contribution 1
+
+Description: Contributed to an open source project by fixing a bug and improving the code.
+
+Link: [Contribution 1](https://github.com/open-source-project/pull/123)
+
+### Contribution 2
+
+Description: Contributed to an open source project by adding a new feature and improving the user experience.
+
+Link: [Contribution 2](https://github.com/open-source-project/pull/456)
+
+## Contact
+
+If you want to get in touch, you can reach me at [your-email-address](mailto:your-email-address).
