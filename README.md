@@ -15,7 +15,7 @@ Webtools is constantly expanding its library of tools to offer developers even m
 Thank you for choosing Webtools for your web development needs!
 
 
-Link: [Project 1](https://github.com/ClintonCoder/WebTools)
+Link: [WebTools](https://github.com/ClintonCoder/WebTools)
 
 ### Project 2
 
