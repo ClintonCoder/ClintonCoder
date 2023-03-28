@@ -4,13 +4,18 @@ Welcome to my Github portfolio! This repository contains a collection of my proj
 
 ## Projects
 
-### Project 1
+# Project 1: Webtools
 
-Description: This project is a web application that allows users to search for restaurants based on their location.
+Webtools is a platform dedicated to simplifying the process of creating a website by providing a range of useful tools that developers can easily integrate into their projects. Our aim is to offer developers an environment where they can easily access and implement custom scripts for their website without having to spend time writing code from scratch.
 
-Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express
+Using Webtools, developers can access a comprehensive library of JavaScript and CSS scripts that can be easily integrated into any project using a single line of code. For instance, you can add a share button to every div element with class social_button using an integration code. Additionally, Webtools provides a page where developers can browse and choose which code to use based on their preferences and recommended style.
 
-Link: [Project 1](https://github.com/your-username/project-1)
+Webtools is constantly expanding its library of tools to offer developers even more options. To access the platform and learn more about its features, please visit our website at https://webtoolsv1.000webhostapp.com/. Additionally, for API documentation for Webtools, please refer to this link: https://webtoolsv1.000webhostapp.com/docs/.
+
+Thank you for choosing Webtools for your web development needs!
+
+
+Link: [Project 1](https://github.com/ClintonCoder/WebTools)
 
 ### Project 2
 
@@ -18,7 +23,7 @@ Description: This project is a mobile application that allows users to track the
 
 Tech Stack: React Native, Firebase, Firestore
 
-Link: [Project 2](https://github.com/your-username/project-2)
+Link: [Project 2](https://github.com/ClintonCoder/Digital-Forensics)
 
 ## Contributions
 
