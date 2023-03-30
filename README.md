@@ -25,6 +25,15 @@ Tech Stack: React Native, Firebase, Firestore
 
 Link: [Project 2](https://github.com/ClintonCoder/Digital-Forensics)
 
+### Project 3
+
+Description: This project is a mobile application that allows users to track their workouts and progress.
+
+Tech Stack: React Native, Firebase, Firestore
+
+Link: [Project 2](https://github.com/ClintonCoder/Digital-Forensics)
+
+
 ## Contributions
 
 ### Contribution 1
