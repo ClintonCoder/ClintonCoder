@@ -36,7 +36,7 @@ Link: [For more information on Digital Forensics](https://github.com/ClintonCode
 
 Description: This project is a Cisco packet tracer project that I created. It is based on a College campus Network using Cisco and this project enabled me to understand the fundamentals behind computer Networks and how they operate.
 
-Link: [For more information on my Cisco project]((https://github.com/ClintonCoder/Cisco-Packet-Tracer)
+Link: [For more information on my Cisco project](https://github.com/ClintonCoder/Cisco-Packet-Tracer)
 
 
 
