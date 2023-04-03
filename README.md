@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my Github portfolio! I am a computer science student with a focus on cyber security and a passion for web development, programming, and penetration testing. Currently studying at the University of Huddersfield, I have a strong background in both front-end and back-end programming, with experience in languages such as HTML, CSS, JavaScript, Python, and Java. My keen interest in cyber security has led me to explore areas such as network security, vulnerability assessment, and penetration testing, which has given me a solid understanding of how to identify and mitigate cyber threats. With my diverse skillset and thirst for knowledge, I am always seeking new challenges and opportunities to expand my knowledge and expertise.
+Welcome to my Github portfolio! I am a 2nd Year Computer Science student with a focus on cyber security and a passion for web development, programming, and penetration testing. Currently studying at the University of Huddersfield, I have a pragmatic background in both front-end and back-end programming, with experience in languages such as HTML, CSS, JavaScript, Python, and Java. My keen interest in cyber security has led me to explore areas such as network security, vulnerability assessment, and penetration testing, which has given me a solid understanding of how to identify and mitigate cyber threats. With my diverse skillset and thirst for knowledge, I am always seeking new challenges and opportunities to expand my knowledge and expertise.
 
 ## Projects
 
@@ -26,9 +26,9 @@ Link: [For more information on CodeConnect](https://github.com/ClintonCoder/Code
 
 ### Project 3: Digital Forensics
 
-Description: This project is a Digital Forensics that allows users to track their workouts and progress.
+Description: In this project, I was the acting Senior officer at the Digital Investigation Unit (DIU) of West Yorkshire Police. I was tasked with digging into a cyber crime that had taken place.
 
-Tech Stack: React Native, Firebase, Firestore
+* Performed using Microsoft Azure Virtual Machine *
 
 Link: [For more information on Digital Forensics](https://github.com/ClintonCoder/Digital-Forensics)
 
