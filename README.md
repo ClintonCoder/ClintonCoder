@@ -6,13 +6,7 @@ Welcome to my Github portfolio! I am a 2nd Year Computer Science student with a 
 
 # Project 1: Webtools
 
-Webtools is a platform dedicated to simplifying the process of creating a website by providing a range of useful tools that developers can easily integrate into their projects. Our aim is to offer developers an environment where they can easily access and implement custom scripts for their website without having to spend time writing code from scratch.
-
-Using Webtools, developers can access a comprehensive library of JavaScript and CSS scripts that can be easily integrated into any project using a single line of code. For instance, you can add a share button to every div element with class social_button using an integration code. Additionally, Webtools provides a page where developers can browse and choose which code to use based on their preferences and recommended style.
-
-Webtools is constantly expanding its library of tools to offer developers even more options. To access the platform and learn more about its features, please visit our website at https://webtoolsv1.000webhostapp.com/. Additionally, for API documentation for Webtools, please refer to this link: https://webtoolsv1.000webhostapp.com/docs/.
-
-Thank you for choosing Webtools for your web development needs!
+Webtools is a platform for developers to easily access and integrate JavaScript and CSS scripts into their web projects without writing code from scratch. The platform offers a comprehensive library of scripts and a page for browsing and selecting preferred code. Webtools is constantly expanding its library and is accessible at https://webtoolsv1.000webhostapp.com/.
 
 
 Link: [For more information on WebTools](https://github.com/ClintonCoder/WebTools)
@@ -41,7 +35,7 @@ Link: [For more information on my Cisco project](https://github.com/ClintonCoder
 
 
 
-## Education
+
 
 ### 
 
