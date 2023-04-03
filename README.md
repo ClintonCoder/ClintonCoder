@@ -17,13 +17,13 @@ Thank you for choosing Webtools for your web development needs!
 
 Link: [WebTools](https://github.com/ClintonCoder/WebTools)
 
-### Project 2
+### CodeConnect
 
-Description: This project is a mobile application that allows users to track their workouts and progress.
+Description: Having Built on WebTools, CodeConnect is a..
 
 Tech Stack: React Native, Firebase, Firestore
 
-Link: [Project 2](https://github.com/ClintonCoder/Digital-Forensics)
+Link: [CodeConnect](https://github.com/ClintonCoder/CodeConnect)
 
 ### Project 3
 
@@ -31,7 +31,7 @@ Description: This project is a Digital Forensics that allows users to track thei
 
 Tech Stack: React Native, Firebase, Firestore
 
-Link: [Project 3](https://github.com/ClintonCoder/Digital-Forensics)
+Link: [Digital Forensics](https://github.com/ClintonCoder/Digital-Forensics)
 
 ### Project 4
 
