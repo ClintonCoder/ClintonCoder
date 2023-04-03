@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my Github portfolio! This repository contains a collection of my projects and contributions to open source.
+Welcome to my Github portfolio! I am a computer science student with a focus on cyber security and a passion for web development, programming, and penetration testing. Currently studying at the University of Huddersfield, I have a strong background in both front-end and back-end programming, with experience in languages such as HTML, CSS, JavaScript, Python, and Java. My keen interest in cyber security has led me to explore areas such as network security, vulnerability assessment, and penetration testing, which has given me a solid understanding of how to identify and mitigate cyber threats. With my diverse skillset and thirst for knowledge, I am always seeking new challenges and opportunities to expand my knowledge and expertise.
 
 ## Projects
 
@@ -17,11 +17,10 @@ Thank you for choosing Webtools for your web development needs!
 
 Link: [For more information on WebTools](https://github.com/ClintonCoder/WebTools)
 
-### Team Project 2: CodeConnect
+### A Team Project 2: CodeConnect
 
-Description: Having Built on WebTools, CodeConnect is a..
+Description: Built on the foundations of WebTools, CodeConnect is a web development platform that facilitates collaboration and sharing of projects. It offers a range of features such as clustering, monetisation, and analytics to help developers connect, collaborate, and create projects efficiently. The platform provides different access levels and customisation options, making it suitable for developers of all levels. With its core values of teamwork, creativity, and community, CodeConnect is the perfect platform for developers looking to share and collaborate on web development projects. Due to funding, the domain is a work in progress.
 
-Tech Stack: React Native, Firebase, Firestore
 
 Link: [For more information on CodeConnect](https://github.com/ClintonCoder/CodeConnect)
 
@@ -37,7 +36,7 @@ Link: [For more information on Digital Forensics](https://github.com/ClintonCode
 
 Description: This project is a Cisco packet tracer project that I created. It is based on a College campus Network using Cisco and this project enabled me to understand the fundamentals behind computer Networks and how they operate.
 
-Link: [For more information on my Cisco project](https://github.com/ClintonCoder/Digital-Forensics)
+Link: [For more information on my Cisco project]((https://github.com/ClintonCoder/Cisco-Packet-Tracer)
 
 
 
