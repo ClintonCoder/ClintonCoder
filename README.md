@@ -15,58 +15,43 @@ Webtools is constantly expanding its library of tools to offer developers even m
 Thank you for choosing Webtools for your web development needs!
 
 
-Link: [WebTools](https://github.com/ClintonCoder/WebTools)
+Link: [For more information on WebTools](https://github.com/ClintonCoder/WebTools)
 
-### CodeConnect
+### Team Project 2: CodeConnect
 
 Description: Having Built on WebTools, CodeConnect is a..
 
 Tech Stack: React Native, Firebase, Firestore
 
-Link: [CodeConnect](https://github.com/ClintonCoder/CodeConnect)
+Link: [For more information on CodeConnect](https://github.com/ClintonCoder/CodeConnect)
 
-### Project 3
+### Project 3: Digital Forensics
 
 Description: This project is a Digital Forensics that allows users to track their workouts and progress.
 
 Tech Stack: React Native, Firebase, Firestore
 
-Link: [Digital Forensics](https://github.com/ClintonCoder/Digital-Forensics)
+Link: [For more information on Digital Forensics](https://github.com/ClintonCoder/Digital-Forensics)
 
-### Project 4
+### Project 4: Cisco Packet Tracer
 
-Description: This project is a Cisco packet tracer that allows users to track their workouts and progress.
+Description: This project is a Cisco packet tracer project that I created. It is based on a College campus Network using Cisco and this project enabled me to understand the fundamentals behind computer Networks and how they operate.
 
-Tech Stack: React Native, Firebase, Firestore
-
-Link: [Project 3](https://github.com/ClintonCoder/Digital-Forensics)
-
-### Project 5
-
-Description: This project is a ... that allows users to track their workouts and progress.
-
-Tech Stack: React Native, Firebase, Firestore
-
-Link: [Project 3](https://github.com/ClintonCoder/Digital-Forensics)
+Link: [For more information on my Cisco project](https://github.com/ClintonCoder/Digital-Forensics)
 
 
-## Contributions
 
-### Contribution 1
 
-Description: Contributed to an open source project by fixing a bug and improving the code.
+## Education
 
-Link: [Contribution 1](https://github.com/open-source-project/pull/123)
+### 
 
-### Contribution 2
 
-Description: Contributed to an open source project by adding a new feature and improving the user experience.
 
-Link: [Contribution 2](https://github.com/open-source-project/pull/456)
 
 ## Contact
 
-If you want to get in touch, you can reach me at [your-email-address](mailto:your-email-address).
+If you want to get in touch, you can reach me at [Clintonibo@gmail.com](mailto:your-email-address).
 
 <h1 align="center">Hi 👋, I'm Clinton</h1>
 <h3 align="center">A passionate Student seeking a desirable role at GymShark</h3>
